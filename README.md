@@ -1,6 +1,9 @@
 # Patient-Risk-Hospital-Efficiency-
 (India Public Healthcare)
 
+Dataset Source-
+https://www.kaggle.com/datasets/digutlaranjithkumar/india-hospital-readmission-dataset-20152024
+
 Project Background
 
 This project analyzes operational efficiency, patient risk, readmission behavior, and treatment costs across hospitals in the Indian public healthcare ecosystem. Public hospitals often face pressure to improve patient outcomes while managing limited budgets, bed capacity, and increasing demand.
@@ -23,6 +26,11 @@ Insights and recommendations are provided on the following key areas:
 The SQL queries used to explore and analyze the data for this project can be found in the `/sql/analysis_queries.sql` file.
 
 An interactive Power BI dashboard used to explore hospital performance trends can be found in the `/dashboard/` folder.
+
+
+
+
+
 
 Data Structure & Initial Checks
 
