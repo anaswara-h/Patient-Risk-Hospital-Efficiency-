@@ -32,10 +32,6 @@ Main Tables:
 
 1. patients_1
 
-Contains patient demographics and risk indicators.
-
-Fields include:
-
 * patient_id
 * age
 * gender
@@ -46,10 +42,6 @@ Fields include:
 * prev_admissions
 
 2. admissions_1
-
-Contains hospital stay details.
-
-Fields include:
 
 * admission_id
 * patient_id
@@ -72,8 +64,6 @@ Fields include:
 
 3. hospitals_1
 
-Contains hospital attributes.
-
 Fields include:
 
 * hospital_id
@@ -85,8 +75,6 @@ Fields include:
 
 4. billing_1
 
-Contains financial metrics.
-
 Fields include:
 
 * admission_id
@@ -97,8 +85,6 @@ Fields include:
 * out_of_pocket_inr
 
 5. diagnoses_1
-
-Contains diagnosis categories linked to admissions.
 
 Fields include:
 
