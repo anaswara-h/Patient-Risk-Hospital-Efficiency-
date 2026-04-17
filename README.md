@@ -23,14 +23,14 @@ Insights and recommendations are provided on the following key areas:
 * Cost Analysis & Hospital Performance
 * Diagnosis Complexity & Treatment Burden
 
-The SQL queries used to explore and analyze the data for this project can be found in the `/sql/analysis_queries.sql` file.
+The SQL queries used to explore and analyze the data for this project can be found in the `sql` folder.
 
-An interactive Power BI dashboard used to explore hospital performance trends can be found in the `/dashboard/` folder.
+Screenshots of interactive Power BI dashboard used to explore hospital performance trends can be found in the `/dashboard screenshots/` folder.
 
-
-
-
-
+<img width="1084" height="628" alt="home" src="https://github.com/user-attachments/assets/a03120bf-5f4d-44a1-b04d-40d5e567c1bf" />
+<img width="1087" height="628" alt="LOS comparison" src="https://github.com/user-attachments/assets/c8aa2cd5-f76b-4842-9743-b5c4f68e80ac" />
+<img width="1088" height="629" alt="Patient Risk and Readmission" src="https://github.com/user-attachments/assets/eead4f48-132c-425a-b875-17b1f8130bf1" />
+<img width="1083" height="625" alt="Cost Comparison   Hospital Performance" src="https://github.com/user-attachments/assets/0aed4c7b-3bc2-496d-a066-f65661d8d92f" />
 
 Data Structure & Initial Checks
 
