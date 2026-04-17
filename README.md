@@ -32,6 +32,7 @@ Screenshots of interactive Power BI dashboard used to explore hospital performan
 <img width="1088" height="629" alt="Patient Risk and Readmission" src="https://github.com/user-attachments/assets/eead4f48-132c-425a-b875-17b1f8130bf1" />
 <img width="1083" height="625" alt="Cost Comparison   Hospital Performance" src="https://github.com/user-attachments/assets/0aed4c7b-3bc2-496d-a066-f65661d8d92f" />
 
+
 Data Structure & Initial Checks
 
 The healthcare database structure consists of five core tables with patient, hospital, admissions, diagnosis, and billing information.
